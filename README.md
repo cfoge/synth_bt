@@ -1,9 +1,9 @@
 # synth_bt
 Passive modular synthesizer tools
 
-Kickstarter: [here] (https://www.kickstarter.com/projects/synth-bt/synthbt-modular-synthesizer-tools/description)
-BOM: [here] (https://docs.google.com/spreadsheets/d/1EWtXHkUW2CL4jLhmvJ_X1ESq3NdeyMHCmmi2RQSP0DQ/edit?usp=sharing)
-Build Guide: [here] (https://docs.google.com/document/d/1gEhELzELJQBtYknUnyzxoAJQc84rnqIcJa2jn3K-jcA/edit?usp=sharing)
+Kickstarter: [here](https://www.kickstarter.com/projects/synth-bt/synthbt-modular-synthesizer-tools/description)
+BOM: [here](https://docs.google.com/spreadsheets/d/1EWtXHkUW2CL4jLhmvJ_X1ESq3NdeyMHCmmi2RQSP0DQ/edit?usp=sharing)
+Build Guide: [here](https://docs.google.com/document/d/1gEhELzELJQBtYknUnyzxoAJQc84rnqIcJa2jn3K-jcA/edit?usp=sharing)
 
 Your HP is sacred, you shouldn’t waste it on things like multiples, attenuators and gate combiners.
 
