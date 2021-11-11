@@ -5,6 +5,8 @@ Kickstarter: [here](https://www.kickstarter.com/projects/synth-bt/synthbt-modula
 BOM: [here](https://docs.google.com/spreadsheets/d/1EWtXHkUW2CL4jLhmvJ_X1ESq3NdeyMHCmmi2RQSP0DQ/edit?usp=sharing)
 Build Guide: [here](https://docs.google.com/document/d/1gEhELzELJQBtYknUnyzxoAJQc84rnqIcJa2jn3K-jcA/edit?usp=sharing)
 
+[[/synth_bt/images/pic1.png|Image of tools]]
+
 Your HP is sacred, you shouldn’t waste it on things like multiples, attenuators and gate combiners.
 
 Synth.BTs packs together a bunch of super handy passive synth tools into one neat kit that is as simple to build as it is useful. 
